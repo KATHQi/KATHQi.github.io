@@ -9,3 +9,4 @@
 <li><a href=''>基于selective search的细胞提取与分割</a></li>
 <li><a href=''>判断柠檬状态</a></li>
 <li><a href=''>眼底图像的血管部分分割</a></li>
+<a href='./简历1.html'>trytry</a>
