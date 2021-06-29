@@ -2,7 +2,7 @@
 个人简介：UNSW master of IT
 
 ## 文章目录
-<li><a href='./Game1/index.md'>基于图像识别技术的MacOS游戏设计</a></li>
+<li><a href='./Game1/project1.html'>基于图像识别技术的MacOS游戏设计</a></li>
 <li><a href=''>车辆自动驾驶</a></li>
 <li><a href=''>从未知数据中进行数据学习与预测</a></li>
 <li><a href=''>MNIST手写数字识别</a></li>
