@@ -10,5 +10,18 @@
 <li><a href=''>基于selective search的细胞提取与分割</a></li>
 <li><a href=''>眼底图像的血管部分分割</a></li>
 
+
 ## 论文目录
 <li><a href='https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=NYHN201803023&v=Td9LHM5elQ70Zgd0afyGfTiFRqtduqgV2zKgJk%25mmd2FaFZ5O9hUFDjSDa7YyUT%25mmd2B3glMc'>[1]王蕴绮,闫思伊,尹唯佳.基于深度学习的行人重识别经典算法研究[J].河南农业,2018(03):49-51+64.</a></li>
+
+
+
+
+
+
+
+<!-- <img src='./img/1.png'> -->
+<a herf='./img/1.png'>1</a>
+<a herf='./img/time.jpeg'>2</a>
+<a herf='./img/acc.jpeg'>3</a>
+
