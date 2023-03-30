@@ -1,4 +1,4 @@
-# 王蕴绮的博客 
+# Yunqi Wang的博客 
 个人简介：UNSW master of IT
 
 ## 项目目录
